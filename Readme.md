@@ -2,11 +2,11 @@
 We recommend an installation with Git and Anaconda. 
 ### Download code
 
-	git clone https://github.com/sreasearcher/ODD-Code.git
-	cd ODD-Code
+	git clone https://github.com/sreasearcher/PDD-Code.git
+	cd PDD-Code
 ### Install necessary packages
-	conda create -n ODD python=3.6
-	conda activate ODD
+	conda create -n PDD python=3.6
+	conda activate PDD
 	pip install numpy
 	pip install matplotlib
 ### [Optional] Full installation
