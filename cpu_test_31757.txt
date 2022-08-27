@@ -1,0 +1,562 @@
+CPU model	Number of computers	Avg. cores/computer	GFLOPS/core	GFLOPs/computer
+[Impl 0x41 Arch 8 Variant 0x3 Part 0xd0c Rev 1]	16	3.31	6.78	22.47
+Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz [x86 Family 6 Model 165 Stepping 5]	16	16.00	6.53	104.52
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz [x86 Family 6 Model 158 Stepping 13]	18	16.00	6.43	102.90
+Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz [x86 Family 6 Model 158 Stepping 12]	12	6.00	6.35	38.11
+Intel(R) Core(TM) i9-10910 CPU @ 3.60GHz [x86 Family 6 Model 165 Stepping 5]	15	20.00	6.24	124.84
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz [x86 Family 6 Model 158 Stepping 9]	37	8.00	6.20	49.60
+12th Gen Intel(R) Core(TM) i7-12700KF [Family 6 Model 151 Stepping 2]	13	20.00	6.18	123.62
+AMD Ryzen 7 5800X 8-Core Processor [Family 25 Model 33 Stepping 2]	15	16.00	6.14	98.21
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz [x86 Family 6 Model 158 Stepping 12]	12	16.00	6.09	97.50
+12th Gen Intel(R) Core(TM) i9-12900K [Family 6 Model 151 Stepping 2]	21	23.62	6.04	142.68
+12th Gen Intel(R) Core(TM) i7-12700K [Family 6 Model 151 Stepping 2]	35	19.43	5.99	116.45
+AMD Ryzen 9 5950X 16-Core Processor [Family 25 Model 33 Stepping 0]	127	32.74	5.98	195.80
+AMD Ryzen 7 5800X 8-Core Processor [Family 25 Model 33 Stepping 0]	112	16.00	5.96	95.33
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz [x86 Family 6 Model 158 Stepping 9]	18	4.00	5.91	23.65
+AMD Ryzen 5 5600X 6-Core Processor [Family 25 Model 33 Stepping 0]	113	11.93	5.87	70.02
+Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz [x86 Family 6 Model 158 Stepping 10]	38	5.89	5.83	34.38
+Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz [x86 Family 6 Model 158 Stepping 9]	20	4.00	5.79	23.17
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz [x86 Family 6 Model 158 Stepping 9]	10	8.00	5.79	46.29
+AMD Ryzen 5 4600G with Radeon Graphics [Family 23 Model 96 Stepping 1]	10	12.00	5.73	68.75
+Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz [Family 6 Model 165 Stepping 5]	15	16.00	5.70	91.19
+AMD Ryzen Threadripper 3970X 32-Core Processor [Family 23 Model 49 Stepping 0]	12	61.33	5.69	348.77
+AMD Ryzen 5 5600G with Radeon Graphics [Family 25 Model 80 Stepping 0]	51	12.00	5.66	67.86
+Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz [Family 6 Model 165 Stepping 5]	19	20.00	5.63	112.69
+12th Gen Intel(R) Core(TM) i5-12600K [Family 6 Model 151 Stepping 2]	12	15.67	5.63	88.15
+AMD Ryzen 9 5900X 12-Core Processor [Family 25 Model 33 Stepping 0]	101	23.49	5.61	131.86
+AMD Ryzen 7 5700G with Radeon Graphics [Family 25 Model 80 Stepping 0]	45	16.00	5.61	89.74
+AMD Ryzen 9 5950X 16-Core Processor [Family 25 Model 33 Stepping 2]	22	31.00	5.61	173.77
+AMD Ryzen Threadripper 3960X 24-Core Processor [Family 23 Model 49 Stepping 0]	15	47.87	5.59	267.59
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz [x86 Family 6 Model 94 Stepping 3]	34	8.00	5.59	44.69
+AMD Ryzen 9 3900X 12-Core Processor [Family 23 Model 113 Stepping 0]	182	23.56	5.59	131.60
+AMD Ryzen 9 5900X 12-Core Processor [Family 25 Model 33 Stepping 2]	29	23.86	5.58	133.17
+AMD Ryzen 7 3800X 8-Core Processor [Family 23 Model 113 Stepping 0]	82	15.84	5.57	88.31
+11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz [Family 6 Model 167 Stepping 1]	22	16.00	5.57	89.09
+Intel(R) Xeon(R) W-2140B CPU @ 3.20GHz [x86 Family 6 Model 85 Stepping 4]	17	16.00	5.55	88.72
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz [Family 6 Model 165 Stepping 5]	27	20.00	5.54	110.76
+11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz [Family 6 Model 167 Stepping 1]	10	16.00	5.51	88.18
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz [Family 6 Model 158 Stepping 12]	46	8.00	5.50	44.04
+Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz [Family 6 Model 165 Stepping 5]	36	20.00	5.50	110.06
+Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz [Family 6 Model 165 Stepping 5]	59	16.00	5.46	87.32
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz [Family 6 Model 158 Stepping 13]	90	7.94	5.45	43.28
+AMD Ryzen Threadripper 2950X 16-Core Processor [Family 23 Model 8 Stepping 2]	26	26.04	5.44	141.65
+Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz [x86 Family 6 Model 158 Stepping 10]	33	6.00	5.44	32.64
+AMD Ryzen 7 3700X 8-Core Processor [Family 23 Model 113 Stepping 0]	299	15.96	5.44	86.79
+AMD Ryzen 3 3100 4-Core Processor [Family 23 Model 113 Stepping 0]	23	8.00	5.43	43.47
+Apple M1 Max	59	10.00	5.38	53.80
+11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz [Family 6 Model 167 Stepping 1]	34	16.00	5.36	85.74
+Apple M1 Pro	61	9.41	5.35	50.36
+AMD Ryzen 5 3600X 6-Core Processor [Family 23 Model 113 Stepping 0]	86	12.00	5.34	64.06
+Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz [Family 6 Model 158 Stepping 12]	37	6.00	5.34	32.02
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz [x86 Family 6 Model 158 Stepping 9]	51	4.00	5.33	21.33
+Intel(R) Core(TM) i7-9700KF CPU @ 3.60GHz [Family 6 Model 158 Stepping 13]	14	8.00	5.32	42.57
+Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz [Family 6 Model 158 Stepping 13]	32	8.00	5.32	42.57
+11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz [Family 6 Model 167 Stepping 1]	12	12.00	5.31	63.68
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz [Family 6 Model 158 Stepping 13]	79	15.87	5.30	84.18
+AMD Ryzen 9 5900HX with Radeon Graphics [Family 25 Model 80 Stepping 0]	22	16.00	5.29	84.63
+Intel(R) Core(TM) i3-8100B CPU @ 3.60GHz [x86 Family 6 Model 158 Stepping 10]	29	4.00	5.28	21.11
+AMD Ryzen 5 3600 6-Core Processor [Family 23 Model 113 Stepping 0]	325	11.94	5.28	63.01
+AMD Ryzen 9 3950X 16-Core Processor [Family 23 Model 113 Stepping 0]	65	31.95	5.27	168.48
+AMD Ryzen 9 3900XT 12-Core Processor [Family 23 Model 113 Stepping 0]	16	24.00	5.27	126.48
+Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz [Family 6 Model 158 Stepping 13]	40	6.00	5.24	31.46
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz [Family 6 Model 158 Stepping 12]	61	16.00	5.24	83.81
+AMD Ryzen Threadripper 1920X 12-Core Processor [Family 23 Model 1 Stepping 1]	16	24.00	5.18	124.23
+Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz [Family 6 Model 165 Stepping 3]	13	8.00	5.17	41.32
+Intel(R) Core(TM) i5-5257U CPU @ 2.70GHz [x86 Family 6 Model 61 Stepping 4]	16	4.00	5.16	20.62
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz [Family 6 Model 165 Stepping 5]	21	12.00	5.15	61.81
+Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz [x86 Family 6 Model 158 Stepping 10]	62	12.00	5.15	61.81
+Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz [Family 6 Model 165 Stepping 5]	50	15.92	5.15	81.98
+Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz [Family 6 Model 158 Stepping 13]	153	7.96	5.14	40.96
+Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz [x86 Family 6 Model 142 Stepping 9]	27	4.00	5.12	20.50
+Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz [Family 6 Model 158 Stepping 10]	52	6.00	5.12	30.72
+AMD Ryzen 5 3500 6-Core Processor [Family 23 Model 113 Stepping 0]	14	6.00	5.11	30.64
+Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz [Family 6 Model 158 Stepping 13]	13	6.00	5.10	30.62
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz [x86 Family 6 Model 158 Stepping 10]	29	12.00	5.09	61.11
+Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz [Family 6 Model 79 Stepping 1]	19	12.00	5.09	61.04
+Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz [x86 Family 6 Model 158 Stepping 13]	24	16.00	5.07	81.07
+AMD Ryzen 5 4500U with Radeon Graphics [Family 23 Model 96 Stepping 1]	52	5.92	5.06	29.95
+Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz [Family 6 Model 165 Stepping 3]	20	8.00	5.06	40.44
+AMD Ryzen 7 2700X Eight-Core Processor [Family 23 Model 8 Stepping 2]	162	15.70	5.04	79.21
+Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz [Family 6 Model 165 Stepping 5]	114	16.00	4.99	79.88
+Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz [Family 6 Model 165 Stepping 5]	25	16.52	4.99	82.46
+Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz [Family 6 Model 79 Stepping 1]	80	48.15	4.99	240.20
+AMD Ryzen Threadripper 1950X 16-Core Processor [Family 23 Model 1 Stepping 1]	44	29.55	4.98	147.27
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz [x86 Family 6 Model 58 Stepping 9]	18	8.00	4.98	39.86
+Apple M1	304	8.00	4.96	39.69
+Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz [Family 6 Model 158 Stepping 10]	81	6.00	4.95	29.69
+Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz [Family 6 Model 158 Stepping 13]	28	17.71	4.95	87.65
+Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz [x86 Family 6 Model 142 Stepping 10]	11	8.00	4.94	39.52
+Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz [x86 Family 6 Model 60 Stepping 3]	19	8.00	4.94	39.52
+Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz [x86 Family 6 Model 62 Stepping 4]	14	8.00	4.94	39.51
+Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz [x86 Family 6 Model 158 Stepping 9]	12	4.00	4.92	19.69
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz [Family 6 Model 165 Stepping 3]	58	7.93	4.92	38.99
+AMD Ryzen 5 5600H with Radeon Graphics [Family 25 Model 80 Stepping 0]	11	12.00	4.91	58.97
+Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz [Family 6 Model 158 Stepping 10]	18	4.00	4.91	19.63
+11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz [Family 6 Model 167 Stepping 1]	45	12.00	4.91	58.90
+11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz [Family 6 Model 167 Stepping 1]	27	16.00	4.91	78.48
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz [x86 Family 6 Model 94 Stepping 3]	30	4.00	4.91	19.62
+AMD Ryzen 5 3400G with Radeon Vega Graphics [Family 23 Model 24 Stepping 1]	58	7.79	4.90	38.21
+Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz [Family 6 Model 158 Stepping 11]	38	4.00	4.87	19.49
+AMD Ryzen 5 2600X Six-Core Processor [Family 23 Model 8 Stepping 2]	46	12.00	4.87	58.46
+Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz [x86 Family 6 Model 62 Stepping 4]	23	12.00	4.87	58.42
+AMD Ryzen 3 3200G with Radeon Vega Graphics [Family 23 Model 24 Stepping 1]	52	4.00	4.84	19.37
+Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz [Family 6 Model 158 Stepping 10]	168	11.96	4.84	57.92
+Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz [Family 6 Model 158 Stepping 13]	48	6.00	4.84	29.02
+AMD Ryzen 5 4600H with Radeon Graphics [Family 23 Model 96 Stepping 1]	34	12.00	4.82	57.85
+Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz [x86 Family 6 Model 60 Stepping 3]	22	4.00	4.82	19.28
+Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz [Family 6 Model 165 Stepping 3]	102	12.00	4.81	57.78
+Intel(R) Core(TM) i5-8279U CPU @ 2.40GHz [x86 Family 6 Model 142 Stepping 10]	10	8.00	4.81	38.51
+Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz [Family 6 Model 85 Stepping 4]	16	16.00	4.79	76.67
+AMD Ryzen 7 4800H with Radeon Graphics [Family 23 Model 96 Stepping 1]	38	16.00	4.78	76.40
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz [Family 6 Model 158 Stepping 10]	261	11.93	4.77	56.87
+Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz [Family 6 Model 158 Stepping 10]	118	5.98	4.74	28.38
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz [Family 6 Model 158 Stepping 9]	41	4.00	4.74	18.97
+Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz [Family 6 Model 165 Stepping 5]	15	12.00	4.73	56.82
+Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz [Family 6 Model 158 Stepping 10]	66	6.00	4.73	28.40
+AMD Ryzen 3 2200G with Radeon Vega Graphics [Family 23 Model 17 Stepping 0]	39	4.00	4.70	18.82
+11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz [Family 6 Model 140 Stepping 1]	17	4.00	4.70	18.81
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz [Family 6 Model 158 Stepping 9]	201	7.97	4.70	37.47
+Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz [Family 6 Model 158 Stepping 10]	15	12.00	4.70	56.37
+Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz [Family 6 Model 165 Stepping 5]	26	12.00	4.70	56.36
+Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz [Family 6 Model 165 Stepping 3]	93	12.00	4.70	56.36
+AMD Ryzen 5 1600 Six-Core Processor [Family 23 Model 8 Stepping 2]	31	12.00	4.69	56.32
+Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz [Family 6 Model 158 Stepping 12]	10	6.00	4.68	28.09
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz [Family 6 Model 60 Stepping 3]	151	7.85	4.68	36.74
+AMD Ryzen 7 5800H with Radeon Graphics [Family 25 Model 80 Stepping 0]	37	16.00	4.67	74.67
+11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz [Family 6 Model 167 Stepping 1]	39	12.00	4.66	55.97
+11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz [Family 6 Model 167 Stepping 1]	43	16.00	4.66	74.53
+AMD Ryzen 5 2600 Six-Core Processor [Family 23 Model 8 Stepping 2]	161	11.96	4.66	55.70
+Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz [x86 Family 6 Model 158 Stepping 13]	32	16.00	4.65	74.48
+Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz [Family 6 Model 165 Stepping 3]	53	12.00	4.65	55.75
+Intel(R) Core(TM) i7-6900K CPU @ 3.20GHz [Family 6 Model 79 Stepping 1]	10	16.00	4.64	74.30
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz [Family 6 Model 158 Stepping 10]	110	6.00	4.64	27.84
+Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz [Family 6 Model 165 Stepping 2]	11	16.00	4.62	73.88
+AMD Ryzen 7 1800X Eight-Core Processor [Family 23 Model 1 Stepping 1]	39	16.00	4.61	73.76
+Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz [Family 6 Model 158 Stepping 11]	12	4.00	4.61	18.44
+Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	68	4.00	4.61	18.43
+11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz [Family 6 Model 141 Stepping 1]	13	12.00	4.61	55.27
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz [Family 6 Model 158 Stepping 10]	199	6.00	4.60	27.60
+AMD Ryzen 7 4700U with Radeon Graphics [Family 23 Model 96 Stepping 1]	26	8.00	4.59	36.75
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz [Family 6 Model 158 Stepping 13]	11	6.00	4.59	27.56
+AMD Ryzen 5 2400G with Radeon Vega Graphics [Family 23 Model 17 Stepping 0]	63	8.00	4.56	36.47
+Intel(R) Xeon(R) CPU E3-1246 v3 @ 3.50GHz [Family 6 Model 60 Stepping 3]	10	8.00	4.55	36.40
+Intel(R) Core(TM) i7-4578U CPU @ 3.00GHz [x86 Family 6 Model 69 Stepping 1]	23	4.00	4.54	18.15
+Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz [x86 Family 6 Model 58 Stepping 9]	11	4.00	4.53	18.13
+Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz [Family 6 Model 165 Stepping 2]	44	8.00	4.53	36.26
+Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz [Family 6 Model 60 Stepping 3]	19	7.89	4.53	35.78
+Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz [Family 6 Model 165 Stepping 2]	11	16.00	4.52	72.36
+Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz [x86 Family 6 Model 158 Stepping 9]	11	8.00	4.50	35.99
+Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz [Family 6 Model 85 Stepping 4]	15	19.33	4.49	86.83
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz [Family 6 Model 60 Stepping 3]	92	4.00	4.49	17.95
+Intel(R) Xeon(R) CPU E3-1225 v6 @ 3.30GHz [Family 6 Model 158 Stepping 9]	24	4.00	4.47	17.89
+11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz [Family 6 Model 140 Stepping 1]	10	8.00	4.47	35.75
+Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz [Family 6 Model 79 Stepping 1]	22	12.00	4.46	53.58
+Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz [Family 6 Model 158 Stepping 9]	35	4.00	4.46	17.83
+AMD Athlon 3000G with Radeon Vega Graphics [Family 23 Model 24 Stepping 1]	11	4.00	4.45	17.80
+AMD Ryzen 5 5500U with Radeon Graphics [Family 23 Model 104 Stepping 1]	33	12.00	4.45	53.40
+AMD Ryzen 7 1700X Eight-Core Processor [Family 23 Model 1 Stepping 1]	38	16.00	4.44	71.10
+Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz [x86 Family 6 Model 70 Stepping 1]	11	8.00	4.44	35.49
+Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz [Family 6 Model 58 Stepping 9]	66	4.00	4.44	17.74
+Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz [Family 6 Model 60 Stepping 3]	53	4.00	4.42	17.69
+AMD Ryzen 5 1600X Six-Core Processor [Family 23 Model 1 Stepping 1]	37	12.00	4.42	53.05
+Intel(R) Core(TM) i5-5350U CPU @ 1.80GHz [x86 Family 6 Model 61 Stepping 4]	15	4.00	4.41	17.63
+11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz [Family 6 Model 140 Stepping 1]	15	8.00	4.41	35.24
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz [Family 6 Model 94 Stepping 3]	309	7.97	4.39	35.00
+Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz [x86 Family 6 Model 61 Stepping 4]	15	4.00	4.37	17.46
+11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz [Family 6 Model 141 Stepping 1]	51	16.00	4.33	69.32
+Intel(R) Xeon(R) CPU E3-1220 V2 @ 3.10GHz [Family 6 Model 58 Stepping 9]	13	4.00	4.33	17.33
+Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz [Family 6 Model 63 Stepping 2]	27	11.56	4.33	50.04
+AMD Ryzen 5 1600 Six-Core Processor [Family 23 Model 1 Stepping 1]	78	12.00	4.32	51.86
+Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz [x86 Family 6 Model 58 Stepping 9]	12	8.00	4.31	34.47
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz [Family 6 Model 158 Stepping 11]	115	4.00	4.30	17.19
+Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz [Family 6 Model 94 Stepping 3]	94	4.00	4.29	17.15
+Intel(R) Xeon(R) CPU E3-1245 V2 @ 3.40GHz [Family 6 Model 58 Stepping 9]	10	8.00	4.28	34.25
+AMD Ryzen 7 2700 Eight-Core Processor [Family 23 Model 8 Stepping 2]	110	15.89	4.28	67.99
+Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	72	4.00	4.28	17.11
+Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	91	7.87	4.27	33.63
+Intel(R) Xeon(R) CPU E3-1225 v3 @ 3.20GHz [Family 6 Model 60 Stepping 3]	20	4.00	4.27	17.06
+Intel(R) Core(TM) i5-4570R CPU @ 2.70GHz [x86 Family 6 Model 70 Stepping 1]	29	4.00	4.27	17.06
+AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx [Family 23 Model 24 Stepping 1]	12	8.00	4.27	34.12
+Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [x86 Family 6 Model 42 Stepping 7]	13	8.00	4.23	33.85
+AMD Ryzen 7 5700U with Radeon Graphics [Family 23 Model 104 Stepping 1]	27	16.00	4.23	67.63
+Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz [Family 6 Model 158 Stepping 13]	19	12.00	4.22	50.66
+Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz [Family 6 Model 62 Stepping 4]	13	8.00	4.21	33.71
+Intel(R) Xeon(R) CPU E3-1220 v5 @ 3.00GHz [Family 6 Model 94 Stepping 3]	11	4.00	4.21	16.85
+Intel(R) Core(TM) i5-4308U CPU @ 2.80GHz [x86 Family 6 Model 69 Stepping 1]	14	4.00	4.21	16.83
+Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz [Family 6 Model 42 Stepping 7]	65	4.00	4.19	16.75
+Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz [Family 6 Model 58 Stepping 9]	139	4.00	4.19	16.74
+Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz [Family 6 Model 63 Stepping 2]	15	11.60	4.18	48.45
+Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz [Family 6 Model 60 Stepping 3]	21	4.00	4.17	16.69
+Intel(R) Xeon(R) CPU E3-1275 v5 @ 3.60GHz [Family 6 Model 94 Stepping 3]	14	8.00	4.17	33.36
+Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz [Family 6 Model 63 Stepping 2]	19	7.79	4.17	32.46
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz [Family 6 Model 165 Stepping 2]	103	11.92	4.16	49.64
+AMD Ryzen 7 1700 Eight-Core Processor [Family 23 Model 1 Stepping 1]	91	15.75	4.15	65.34
+Intel(R) Xeon(R) CPU E3-1240 V2 @ 3.40GHz [Family 6 Model 58 Stepping 9]	18	7.78	4.15	32.25
+Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz [Family 6 Model 79 Stepping 1]	10	38.00	4.12	156.70
+Intel(R) Core(TM) i5-4278U CPU @ 2.60GHz [x86 Family 6 Model 69 Stepping 1]	39	4.00	4.11	16.43
+11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz [Family 6 Model 140 Stepping 1]	11	8.00	4.11	32.86
+Intel(R) Xeon(R) W-2123 CPU @ 3.60GHz [Family 6 Model 85 Stepping 4]	10	8.00	4.10	32.77
+Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz [Family 6 Model 58 Stepping 9]	111	7.96	4.09	32.55
+Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz [Family 6 Model 63 Stepping 2]	10	54.00	4.09	220.71
+Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz [Family 6 Model 62 Stepping 4]	19	11.58	4.08	47.26
+Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz [x86 Family 6 Model 58 Stepping 9]	35	8.00	4.08	32.63
+Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz [Family 6 Model 58 Stepping 9]	37	4.00	4.07	16.29
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz [Family 6 Model 158 Stepping 9]	463	7.99	4.07	32.49
+Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz [Family 6 Model 142 Stepping 12]	14	4.00	4.04	16.17
+Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz [x86 Family 6 Model 62 Stepping 4]	12	24.00	4.03	96.69
+AMD Ryzen 3 1200 Quad-Core Processor [Family 23 Model 1 Stepping 1]	21	4.00	4.02	16.07
+Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz [Family 6 Model 142 Stepping 11]	15	3.87	4.02	15.53
+Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz [Family 6 Model 58 Stepping 9]	14	7.71	4.01	30.97
+Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz [Family 6 Model 158 Stepping 10]	21	6.00	4.00	24.02
+Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz [Family 6 Model 60 Stepping 3]	323	4.00	4.00	15.99
+Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	16	8.00	3.99	31.94
+Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz [Family 6 Model 60 Stepping 3]	536	7.95	3.99	31.68
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx [Family 23 Model 24 Stepping 1]	23	8.00	3.98	31.83
+Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz [Family 6 Model 45 Stepping 7]	26	8.00	3.97	31.79
+Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz [Family 6 Model 142 Stepping 12]	15	4.00	3.97	15.88
+Intel(R) Xeon(R) CPU E5-1620 0 @ 3.60GHz [Family 6 Model 45 Stepping 7]	23	7.83	3.96	31.02
+Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz [Family 6 Model 142 Stepping 9]	10	4.00	3.96	15.84
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz [Family 6 Model 58 Stepping 9]	460	7.91	3.95	31.23
+Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz [Family 6 Model 165 Stepping 3]	19	12.00	3.95	47.37
+Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz [Family 6 Model 63 Stepping 2]	78	12.00	3.94	47.34
+Intel(R) Core(TM) i5-3570S CPU @ 3.10GHz [Family 6 Model 58 Stepping 9]	11	4.00	3.94	15.78
+Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz [Family 6 Model 60 Stepping 3]	361	4.00	3.94	15.75
+Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz [Family 6 Model 158 Stepping 10]	21	3.95	3.93	15.52
+Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz [x86 Family 6 Model 42 Stepping 7]	24	4.00	3.91	15.66
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz [Family 6 Model 94 Stepping 3]	98	4.00	3.91	15.65
+Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz [Family 6 Model 60 Stepping 3]	146	4.00	3.91	15.63
+Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz [Family 6 Model 60 Stepping 3]	286	7.93	3.91	30.97
+Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz [x86 Family 6 Model 58 Stepping 9]	47	4.00	3.90	15.60
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz [Family 6 Model 63 Stepping 2]	15	15.47	3.90	60.28
+Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz [Family 6 Model 79 Stepping 1]	35	62.29	3.89	242.57
+Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz [Family 6 Model 58 Stepping 9]	483	3.99	3.89	15.52
+Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz [Family 6 Model 142 Stepping 10]	22	4.00	3.89	15.55
+Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz [Family 6 Model 42 Stepping 7]	103	4.00	3.88	15.54
+11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz [Family 6 Model 140 Stepping 1]	25	8.00	3.87	30.95
+11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz [Family 6 Model 140 Stepping 1]	95	8.00	3.86	30.92
+Intel(R) Xeon(R) CPU E3-1265L V2 @ 2.50GHz [Family 6 Model 58 Stepping 9]	12	7.75	3.86	29.91
+Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz [Family 6 Model 158 Stepping 9]	11	8.00	3.84	30.72
+Intel(R) Core(TM) i7-4790T CPU @ 2.70GHz [Family 6 Model 60 Stepping 3]	13	7.08	3.83	27.13
+Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz [Family 6 Model 158 Stepping 10]	16	6.00	3.83	23.00
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz [Family 6 Model 140 Stepping 1]	91	8.00	3.81	30.45
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz [Family 6 Model 158 Stepping 13]	21	12.00	3.81	45.67
+Intel(R) Xeon(R) CPU E5-1650 0 @ 3.20GHz [Family 6 Model 45 Stepping 7]	11	11.45	3.80	43.51
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz [Family 6 Model 158 Stepping 9]	274	4.00	3.80	15.18
+Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz [Family 6 Model 60 Stepping 3]	31	7.87	3.79	29.79
+Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz [Family 6 Model 158 Stepping 10]	43	8.00	3.78	30.24
+Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz [Family 6 Model 166 Stepping 0]	19	11.68	3.77	44.05
+AMD EPYC 7702P 64-Core Processor [Family 23 Model 49 Stepping 0]	19	111.58	3.77	420.41
+Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz [Family 6 Model 58 Stepping 9]	61	4.00	3.77	15.06
+AMD Ryzen 3 3250U with Radeon Graphics [Family 23 Model 24 Stepping 1]	10	4.00	3.76	15.02
+Common KVM processor [Family 15 Model 6 Stepping 1]	40	11.80	3.75	44.30
+Intel(R) Core(TM)2 Duo CPU E8500 @ 3.16GHz [Family 6 Model 23 Stepping 10]	28	2.00	3.75	7.50
+Intel(R) Core(TM)2 Duo CPU E7600 @ 3.06GHz [x86 Family 6 Model 23 Stepping 10]	12	2.00	3.75	7.50
+Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz [Family 6 Model 45 Stepping 7]	33	11.58	3.74	43.29
+Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]	80	8.00	3.73	29.88
+AMD Athlon(tm) X4 870K Quad Core Processor [Family 21 Model 56 Stepping 1]	11	4.00	3.73	14.94
+Intel(R) Xeon(R) CPU X5675 @ 3.07GHz [Family 6 Model 44 Stepping 2]	16	19.63	3.73	73.24
+Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz [Family 6 Model 126 Stepping 5]	46	3.96	3.73	14.74
+Intel(R) Xeon(R) Gold 6252 CPU @ 2.10GHz [Family 6 Model 85 Stepping 7]	14	48.00	3.72	178.59
+Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz [Family 6 Model 60 Stepping 3]	37	4.00	3.72	14.88
+Intel(R) Core(TM) i7-3520M CPU @ 2.90GHz [Family 6 Model 58 Stepping 9]	14	4.00	3.72	14.88
+Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz [Family 6 Model 158 Stepping 9]	39	4.00	3.72	14.88
+Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz [Family 6 Model 60 Stepping 3]	123	3.98	3.70	14.74
+Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz [Family 6 Model 158 Stepping 10]	16	12.00	3.70	44.36
+Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz [Family 6 Model 60 Stepping 3]	28	8.00	3.69	29.55
+Intel(R) Pentium(R) CPU G4500 @ 3.50GHz [Family 6 Model 94 Stepping 3]	11	2.00	3.69	7.38
+Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz [Family 6 Model 158 Stepping 9]	320	4.00	3.68	14.73
+Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz [Family 6 Model 60 Stepping 3]	14	8.00	3.67	29.35
+Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz [Family 6 Model 158 Stepping 9]	26	4.00	3.67	14.67
+Intel(R) Core(TM) i5 CPU 760 @ 2.80GHz [Family 6 Model 30 Stepping 5]	11	3.82	3.66	13.98
+Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]	260	7.95	3.66	29.12
+Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz [Family 6 Model 158 Stepping 9]	28	8.00	3.66	29.27
+Intel Core Processor (Haswell, no TSX) [Family 6 Model 60 Stepping 1]	12	1.67	3.65	6.09
+Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz [Family 6 Model 58 Stepping 9]	25	8.00	3.65	29.22
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz [Family 6 Model 142 Stepping 9]	110	4.00	3.65	14.58
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz [Family 6 Model 94 Stepping 3]	683	7.96	3.64	28.94
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz [Family 6 Model 42 Stepping 7]	13	7.69	3.64	27.97
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx [Family 23 Model 24 Stepping 1]	17	4.00	3.63	14.52
+Intel(R) Core(TM) i5 CPU 650 @ 3.20GHz [Family 6 Model 37 Stepping 2]	14	4.00	3.62	14.50
+Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz [Family 6 Model 58 Stepping 9]	46	4.00	3.61	14.44
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz [Family 6 Model 158 Stepping 10]	107	11.91	3.61	42.95
+Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz [Family 6 Model 61 Stepping 4]	47	4.00	3.60	14.42
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz [Family 6 Model 158 Stepping 10]	110	12.00	3.60	43.25
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz [Family 6 Model 158 Stepping 10]	33	8.00	3.60	28.82
+Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz [Family 6 Model 42 Stepping 7]	376	4.00	3.60	14.39
+[Impl 0x41 Arch 8 Variant 0x2 Part 0xd05 Rev 0]	15	8.00	3.59	28.75
+Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz [x86 Family 6 Model 42 Stepping 7]	24	4.00	3.59	14.37
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx [Family 23 Model 24 Stepping 1]	65	8.00	3.59	28.70
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz [Family 6 Model 142 Stepping 12]	54	7.89	3.58	28.25
+DO-Regular [Family 6 Model 63 Stepping 2]	10	1.10	3.58	3.94
+Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz [Family 6 Model 58 Stepping 9]	12	8.00	3.58	28.64
+Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz [Family 6 Model 142 Stepping 12]	10	8.00	3.57	28.57
+Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz [Family 6 Model 42 Stepping 7]	10	4.00	3.57	14.27
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx [Family 23 Model 17 Stepping 0]	17	8.00	3.55	28.41
+Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz [Family 6 Model 158 Stepping 10]	23	12.00	3.55	42.60
+Intel(R) Pentium(R) CPU G4600 @ 3.60GHz [Family 6 Model 158 Stepping 9]	25	4.00	3.55	14.18
+Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz [Family 6 Model 79 Stepping 1]	13	14.00	3.54	49.63
+Intel(R) Core(TM) i7 CPU X 980 @ 3.33GHz [Family 6 Model 44 Stepping 2]	13	12.00	3.54	42.45
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz [Family 6 Model 158 Stepping 9]	134	8.00	3.53	28.24
+Intel(R) Pentium(R) CPU G3258 @ 3.20GHz [Family 6 Model 60 Stepping 3]	17	2.00	3.52	7.04
+Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz [Family 6 Model 60 Stepping 3]	14	8.00	3.51	28.10
+Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz [Family 6 Model 60 Stepping 3]	19	8.00	3.51	28.09
+Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz [Family 6 Model 60 Stepping 3]	364	4.00	3.51	14.03
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz [Family 6 Model 94 Stepping 3]	691	4.00	3.50	14.01
+Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz [Family 6 Model 60 Stepping 3]	42	4.00	3.50	13.99
+Intel(R) Core(TM) i3-4330 CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	16	3.88	3.49	13.54
+Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz [Family 6 Model 60 Stepping 3]	494	3.99	3.49	13.93
+Intel(R) Xeon(R) CPU X5670 @ 2.93GHz [Family 6 Model 44 Stepping 2]	21	19.71	3.48	68.68
+Intel(R) Pentium(R) CPU G3260 @ 3.30GHz [Family 6 Model 60 Stepping 3]	98	1.99	3.48	6.92
+Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz [Family 6 Model 58 Stepping 9]	22	3.91	3.47	13.58
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz [Family 6 Model 60 Stepping 3]	16	8.00	3.47	27.74
+Intel(R) Core(TM) i5-3350P CPU @ 3.10GHz [Family 6 Model 58 Stepping 9]	32	4.00	3.46	13.86
+Intel(R) Core(TM) i5-3470T CPU @ 2.90GHz [Family 6 Model 58 Stepping 9]	15	4.00	3.45	13.80
+AMD FX(tm)-8350 Eight-Core Processor [Family 21 Model 2 Stepping 0]	88	8.98	3.45	30.97
+Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz [Family 6 Model 158 Stepping 9]	499	4.00	3.45	13.79
+Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz [Family 6 Model 42 Stepping 7]	65	4.00	3.44	13.77
+Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz [Family 6 Model 78 Stepping 3]	32	4.00	3.43	13.72
+Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz [Family 6 Model 94 Stepping 3]	102	8.00	3.43	27.41
+Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz [Family 6 Model 62 Stepping 4]	18	36.11	3.43	123.71
+Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz [Family 6 Model 60 Stepping 3]	57	3.96	3.43	13.58
+Intel(R) Core(TM) i5-3340 CPU @ 3.10GHz [Family 6 Model 58 Stepping 9]	38	4.00	3.42	13.68
+Intel(R) Core(TM) i7-2640M CPU @ 2.80GHz [Family 6 Model 42 Stepping 7]	12	4.00	3.42	13.68
+Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz [Family 6 Model 61 Stepping 4]	28	4.00	3.42	13.68
+AMD Athlon(tm) X4 840 Quad Core Processor [Family 21 Model 48 Stepping 1]	187	4.00	3.42	13.67
+Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz [Family 6 Model 63 Stepping 2]	51	28.71	3.41	98.00
+Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz [Family 6 Model 94 Stepping 3]	14	4.00	3.41	13.65
+Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz [Family 6 Model 94 Stepping 3]	702	3.99	3.41	13.63
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz [Family 6 Model 142 Stepping 12]	108	8.00	3.40	27.22
+Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz [Family 6 Model 60 Stepping 3]	238	4.00	3.40	13.60
+Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz [Family 6 Model 62 Stepping 4]	23	17.78	3.39	60.35
+Intel(R) Core(TM) i5-4260U CPU @ 1.40GHz [x86 Family 6 Model 69 Stepping 1]	20	4.00	3.39	13.55
+Intel(R) Core(TM)2 Duo CPU E8400 @ 3.00GHz [Family 6 Model 23 Stepping 10]	50	1.98	3.38	6.70
+Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz [Family 6 Model 60 Stepping 3]	220	4.00	3.38	13.52
+Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz [Family 6 Model 60 Stepping 3]	499	4.00	3.37	13.49
+Intel(R) Core(TM) i5 CPU 650 @ 3.20GHz [Family 6 Model 37 Stepping 5]	18	4.00	3.37	13.48
+Intel(R) Pentium(R) CPU G4560 @ 3.50GHz [Family 6 Model 158 Stepping 9]	83	4.00	3.36	13.46
+Intel(R) Core(TM) i3-2130 CPU @ 3.40GHz [Family 6 Model 42 Stepping 7]	37	4.00	3.36	13.42
+Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz [Family 6 Model 60 Stepping 3]	277	3.99	3.35	13.39
+Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz [Family 6 Model 58 Stepping 9]	247	3.98	3.35	13.33
+Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz [Family 6 Model 94 Stepping 3]	32	8.00	3.35	26.79
+Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz [Family 6 Model 60 Stepping 3]	17	7.76	3.35	25.99
+Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz [Family 6 Model 58 Stepping 9]	38	4.00	3.35	13.39
+AMD Athlon(tm) X4 740 Quad Core Processor [Family 21 Model 16 Stepping 1]	10	4.00	3.34	13.37
+Intel(R) Core(TM) i3 CPU 540 @ 3.07GHz [Family 6 Model 37 Stepping 5]	18	3.78	3.34	12.61
+Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz [Family 6 Model 58 Stepping 9]	17	8.00	3.34	26.68
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz [Family 6 Model 58 Stepping 9]	30	7.73	3.33	25.79
+Intel(R) Core(TM) i3 CPU 550 @ 3.20GHz [Family 6 Model 37 Stepping 5]	15	4.00	3.33	13.33
+Intel(R) Pentium(R) CPU G3250 @ 3.20GHz [Family 6 Model 60 Stepping 3]	108	2.00	3.33	6.65
+Intel(R) Core(TM)2 Duo CPU E8500 @ 3.16GHz [Family 6 Model 23 Stepping 10]	19	2.00	3.32	6.63
+Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz [Family 6 Model 142 Stepping 11]	32	8.00	3.31	26.52
+Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz [Family 6 Model 58 Stepping 9]	103	4.00	3.31	13.24
+Intel(R) Core(TM) i3-6098P CPU @ 3.60GHz [Family 6 Model 94 Stepping 3]	28	4.00	3.31	13.23
+Intel(R) Core(TM) i5-4460S CPU @ 2.90GHz [Family 6 Model 60 Stepping 3]	81	4.00	3.31	13.23
+Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz [Family 6 Model 30 Stepping 5]	18	4.00	3.30	13.21
+Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz [Family 6 Model 79 Stepping 1]	21	21.90	3.30	72.25
+Intel(R) Core(TM)2 Quad CPU Q9550 @ 2.83GHz [Family 6 Model 23 Stepping 10]	24	4.00	3.30	13.18
+Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz [Family 6 Model 60 Stepping 3]	15	4.00	3.29	13.17
+Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz [Family 6 Model 94 Stepping 3]	68	7.82	3.29	25.74
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz [Family 6 Model 78 Stepping 3]	45	4.00	3.29	13.16
+Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz [Family 6 Model 60 Stepping 3]	43	8.00	3.29	26.30
+AMD FX-8370 Eight-Core Processor [Family 21 Model 2 Stepping 0]	13	8.00	3.28	26.27
+Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz [Family 6 Model 126 Stepping 5]	57	7.88	3.28	25.85
+AMD Ryzen 3 1200 Quad-Core Processor [Family 23 Model 1 Stepping 1]	10	4.00	3.27	13.09
+Pentium(R) Dual-Core CPU E5800 @ 3.20GHz [Family 6 Model 23 Stepping 10]	12	2.00	3.27	6.54
+Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz [Family 6 Model 63 Stepping 2]	18	23.33	3.27	76.24
+AArch64 Processor rev 14 (aarch64) [Impl 0x51 Arch 8 Variant 0xd Part 0x805 Rev 14]	25	8.00	3.27	26.14
+Intel(R) Xeon(R) CPU E5-2680 0 @ 2.70GHz [Family 6 Model 45 Stepping 7]	17	25.88	3.26	84.36
+Intel(R) Pentium(R) CPU G3220 @ 3.00GHz [Family 6 Model 60 Stepping 3]	92	2.00	3.26	6.52
+Intel(R) Core(TM)2 Duo CPU E7500 @ 2.93GHz [Family 6 Model 23 Stepping 10]	19	2.00	3.25	6.51
+Intel(R) Core(TM) i7 CPU 950 @ 3.07GHz [Family 6 Model 26 Stepping 5]	18	8.00	3.25	26.00
+Intel(R) Pentium(R) CPU G850 @ 2.90GHz [Family 6 Model 42 Stepping 7]	15	2.00	3.25	6.50
+Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz [Family 6 Model 58 Stepping 9]	337	4.00	3.25	12.98
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz [Family 6 Model 42 Stepping 7]	282	3.96	3.24	12.83
+Intel(R) Core(TM) i5 CPU 760 @ 2.80GHz [Family 6 Model 30 Stepping 5]	13	4.00	3.24	12.95
+Intel(R) Xeon(R) CPU X5660 @ 2.80GHz [Family 6 Model 44 Stepping 2]	13	20.46	3.24	66.27
+Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz [Family 6 Model 142 Stepping 9]	14	4.00	3.23	12.93
+AMD Phenom(tm) II X6 1100T Processor [Family 16 Model 10 Stepping 0]	15	6.00	3.23	19.39
+Intel(R) Core(TM) i5 CPU 650 @ 3.20GHz [Family 6 Model 37 Stepping 5]	22	3.91	3.23	12.63
+Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz [Family 6 Model 142 Stepping 10]	37	8.00	3.23	25.84
+Intel(R) Xeon(R) CPU X5650 @ 2.67GHz [Family 6 Model 44 Stepping 2]	56	18.82	3.23	60.80
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz [Family 6 Model 142 Stepping 12]	41	7.90	3.23	25.53
+Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz [Family 6 Model 158 Stepping 9]	28	4.00	3.23	12.92
+Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz [Family 6 Model 62 Stepping 4]	12	29.00	3.23	93.63
+Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz [Family 6 Model 42 Stepping 7]	23	4.00	3.22	12.90
+Intel(R) Pentium(R) CPU G3240 @ 3.10GHz [Family 6 Model 60 Stepping 3]	67	2.00	3.22	6.44
+AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx [Family 23 Model 24 Stepping 1]	20	8.00	3.21	25.70
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz [Family 6 Model 142 Stepping 9]	172	4.00	3.21	12.83
+Intel(R) Core(TM) i7 CPU 870 @ 2.93GHz [Family 6 Model 30 Stepping 5]	31	7.68	3.20	24.60
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz [Family 6 Model 142 Stepping 10]	33	8.00	3.20	25.57
+Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz [Family 6 Model 60 Stepping 3]	18	3.89	3.19	12.42
+Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz [Family 6 Model 78 Stepping 3]	69	4.00	3.19	12.77
+Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz [Family 6 Model 60 Stepping 3]	10	4.00	3.18	12.72
+Intel(R) Core(TM) i3-3210 CPU @ 3.20GHz [Family 6 Model 58 Stepping 9]	16	4.00	3.18	12.71
+Intel(R) Core(TM) i5-3330S CPU @ 2.70GHz [Family 6 Model 58 Stepping 9]	24	4.00	3.17	12.69
+Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz [Family 6 Model 94 Stepping 3]	39	4.00	3.17	12.69
+Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz [Family 6 Model 63 Stepping 2]	17	20.94	3.17	66.38
+Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz [Family 6 Model 45 Stepping 7]	36	14.72	3.17	46.62
+Intel(R) Celeron(R) J4105 CPU @ 1.50GHz [Family 6 Model 122 Stepping 1]	10	4.00	3.17	12.66
+Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz [Family 6 Model 69 Stepping 1]	20	4.00	3.16	12.66
+Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz [Family 6 Model 58 Stepping 9]	39	4.00	3.16	12.65
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz [Family 6 Model 61 Stepping 4]	71	4.00	3.15	12.61
+Intel(R) Xeon(R) CPU E5-2609 v2 @ 2.50GHz [Family 6 Model 62 Stepping 4]	10	7.20	3.15	22.69
+AMD FX(tm)-8320 Eight-Core Processor [Family 21 Model 2 Stepping 0]	34	7.82	3.15	24.64
+Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz [Family 6 Model 126 Stepping 5]	86	8.00	3.15	25.18
+Intel(R) Core(TM) i7 CPU 930 @ 2.80GHz [Family 6 Model 26 Stepping 5]	15	7.73	3.15	24.32
+Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz [Family 6 Model 58 Stepping 9]	48	4.00	3.14	12.58
+AMD Phenom(tm) II X6 1090T Processor [Family 16 Model 10 Stepping 0]	22	6.00	3.14	18.85
+Intel(R) Core(TM) i7 CPU 920 @ 2.67GHz [Family 6 Model 26 Stepping 4]	10	8.00	3.14	25.12
+Intel(R) Core(TM)2 Duo CPU E8400 @ 3.00GHz [Family 6 Model 23 Stepping 10]	77	2.00	3.14	6.28
+Intel(R) Core(TM) i5-4440S CPU @ 2.80GHz [Family 6 Model 60 Stepping 3]	19	3.89	3.14	12.23
+AMD A10-7800 Radeon R7, 12 Compute Cores 4C+8G [Family 21 Model 48 Stepping 1]	20	4.00	3.14	12.55
+AMD Phenom(tm) II X4 965 Processor [Family 16 Model 4 Stepping 3]	18	4.00	3.13	12.53
+Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz [Family 6 Model 63 Stepping 2]	31	17.87	3.13	55.90
+Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz [Family 6 Model 30 Stepping 5]	29	7.93	3.13	24.79
+Intel(R) Pentium(R) CPU G2030 @ 3.00GHz [Family 6 Model 58 Stepping 9]	95	2.00	3.12	6.25
+Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz [Family 6 Model 60 Stepping 3]	41	4.00	3.12	12.50
+Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz [Family 6 Model 42 Stepping 7]	40	4.00	3.12	12.49
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz [Family 6 Model 94 Stepping 3]	667	4.00	3.12	12.46
+Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz [Family 6 Model 60 Stepping 3]	22	4.00	3.11	12.43
+AMD FX(tm)-4300 Quad-Core Processor [Family 21 Model 2 Stepping 0]	19	4.00	3.10	12.40
+Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz [Family 6 Model 58 Stepping 9]	13	4.00	3.10	12.40
+Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz [Family 6 Model 94 Stepping 3]	69	4.00	3.09	12.37
+Intel(R) Core(TM) i5 CPU 650 @ 3.20GHz [Family 6 Model 37 Stepping 2]	16	4.00	3.09	12.35
+AMD A10-6700 APU with Radeon(tm) HD Graphics [Family 21 Model 19 Stepping 1]	10	4.00	3.09	12.35
+Intel(R) Pentium(R) CPU G2020 @ 2.90GHz [Family 6 Model 58 Stepping 9]	60	2.00	3.08	6.16
+Intel(R) Celeron(R) CPU G3930 @ 2.90GHz [Family 6 Model 158 Stepping 9]	12	2.00	3.08	6.15
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz [Family 6 Model 142 Stepping 10]	182	7.98	3.07	24.48
+AMD FX(tm)-6300 Six-Core Processor [Family 21 Model 2 Stepping 0]	58	6.00	3.07	18.40
+Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz [Family 6 Model 45 Stepping 6]	11	8.55	3.07	26.21
+Intel(R) Pentium(R) CPU G4400 @ 3.30GHz [Family 6 Model 94 Stepping 3]	377	2.00	3.06	6.13
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz [Family 6 Model 142 Stepping 11]	38	8.00	3.06	24.46
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz [Family 6 Model 142 Stepping 10]	137	7.93	3.06	24.23
+Pentium(R) Dual-Core CPU E5700 @ 3.00GHz [Family 6 Model 23 Stepping 10]	17	2.00	3.05	6.10
+Intel(R) Core(TM)2 Duo CPU E7500 @ 2.93GHz [Family 6 Model 23 Stepping 10]	33	2.00	3.05	6.09
+Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz [Family 6 Model 42 Stepping 7]	184	3.98	3.04	12.09
+Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz [Family 6 Model 142 Stepping 12]	73	8.00	3.03	24.23
+Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz [Family 6 Model 42 Stepping 7]	18	4.00	3.03	12.11
+Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz [Family 6 Model 69 Stepping 1]	19	4.00	3.03	12.11
+Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz [Family 6 Model 60 Stepping 3]	32	4.00	3.02	12.10
+Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz [Family 6 Model 42 Stepping 7]	41	4.00	3.02	12.09
+Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz [Family 6 Model 142 Stepping 12]	28	7.79	3.02	23.52
+Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz [Family 6 Model 142 Stepping 12]	13	8.00	3.02	24.15
+Intel(R) Pentium(R) CPU G640 @ 2.80GHz [Family 6 Model 42 Stepping 7]	19	2.00	3.01	6.03
+Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz [Family 6 Model 42 Stepping 7]	14	4.00	3.01	12.04
+Intel(R) Core(TM) i7-2600S CPU @ 2.80GHz [Family 6 Model 42 Stepping 7]	11	7.45	3.01	22.43
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz [Family 6 Model 42 Stepping 7]	19	2.00	3.01	6.02
+Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz [Family 6 Model 69 Stepping 1]	35	4.00	3.01	12.03
+Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz [Family 6 Model 45 Stepping 7]	16	16.31	3.01	49.06
+Intel(R) Core(TM) i3-4170T CPU @ 3.20GHz [Family 6 Model 60 Stepping 3]	13	4.00	3.00	12.00
+Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz [Family 6 Model 60 Stepping 3]	18	4.00	3.00	11.98
+Intel(R) Celeron(R) CPU G3900 @ 2.80GHz [Family 6 Model 94 Stepping 3]	19	2.00	2.98	5.95
+Intel(R) Core(TM) i3 CPU 550 @ 3.20GHz [Family 6 Model 37 Stepping 5]	19	4.00	2.96	11.85
+Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz [Family 6 Model 23 Stepping 10]	21	3.90	2.96	11.57
+Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz [Family 6 Model 94 Stepping 3]	97	4.00	2.95	11.79
+Intel(R) Xeon(R) CPU X5570 @ 2.93GHz [Family 6 Model 26 Stepping 5]	11	6.45	2.95	19.02
+Intel(R) Xeon(R) CPU E5645 @ 2.40GHz [Family 6 Model 44 Stepping 2]	24	14.08	2.94	41.39
+AMD Phenom(tm) II X4 955 Processor [Family 16 Model 4 Stepping 3]	15	4.00	2.93	11.70
+Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz [Family 6 Model 58 Stepping 9]	16	8.00	2.92	23.32
+Intel(R) Xeon(R) CPU E5640 @ 2.67GHz [Family 6 Model 44 Stepping 2]	11	12.00	2.91	34.93
+Intel(R) Xeon(R) CPU E5620 @ 2.40GHz [Family 6 Model 44 Stepping 2]	37	10.97	2.91	31.92
+Intel(R) Celeron(R) CPU G1840 @ 2.80GHz [Family 6 Model 60 Stepping 3]	46	2.00	2.91	5.82
+Intel(R) Core(TM) i3-3240T CPU @ 2.90GHz [Family 6 Model 58 Stepping 9]	19	4.00	2.90	11.61
+Intel(R) Pentium(R) CPU G840 @ 2.80GHz [Family 6 Model 42 Stepping 7]	14	2.00	2.90	5.80
+AMD Athlon(tm) II X2 250 Processor [Family 16 Model 6 Stepping 3]	13	2.00	2.89	5.79
+AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G [Family 21 Model 48 Stepping 1]	19	4.00	2.89	11.56
+AMD Athlon(tm) II X4 640 Processor [Family 16 Model 5 Stepping 3]	14	4.00	2.89	11.56
+Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz [Family 6 Model 58 Stepping 9]	10	4.00	2.89	11.56
+Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz [Family 6 Model 60 Stepping 3]	12	7.67	2.89	22.13
+Intel(R) Core(TM) i5-7400T CPU @ 2.40GHz [Family 6 Model 158 Stepping 9]	36	4.00	2.88	11.53
+Intel(R) Celeron(R) N4000 CPU @ 1.10GHz [Family 6 Model 122 Stepping 1]	11	2.00	2.88	5.76
+AMD FX(tm)-8150 Eight-Core Processor [Family 21 Model 1 Stepping 2]	11	8.00	2.88	23.04
+Intel(R) Celeron(R) CPU G1620 @ 2.70GHz [Family 6 Model 58 Stepping 9]	12	2.00	2.88	5.76
+Intel(R) Celeron(R) J4125 CPU @ 2.00GHz [Family 6 Model 122 Stepping 8]	13	4.00	2.87	11.49
+AMD FX-8320E Eight-Core Processor [Family 21 Model 2 Stepping 0]	11	8.00	2.87	22.98
+Intel(R) Core(TM) i7 CPU 920 @ 2.67GHz [Family 6 Model 26 Stepping 5]	19	8.00	2.87	22.97
+Intel(R) Xeon(R) CPU E5530 @ 2.40GHz [Family 6 Model 26 Stepping 5]	15	11.73	2.87	33.68
+06/55 [Family 6 Model 85 Stepping 2]	15	108.80	2.87	311.96
+Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz [Family 6 Model 69 Stepping 1]	16	4.00	2.86	11.43
+Intel(R) Celeron(R) CPU G1820 @ 2.70GHz [Family 6 Model 60 Stepping 3]	25	2.00	2.86	5.72
+AMD A10-5700 APU with Radeon(tm) HD Graphics [Family 21 Model 16 Stepping 1]	10	4.00	2.85	11.40
+AMD FX(tm)-4100 Quad-Core Processor [Family 21 Model 1 Stepping 2]	16	4.00	2.84	11.37
+Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz [Family 6 Model 42 Stepping 7]	19	4.00	2.83	11.34
+Intel(R) Pentium(R) CPU G630 @ 2.70GHz [Family 6 Model 42 Stepping 7]	32	2.00	2.83	5.66
+Intel(R) Core(TM) i3 CPU 530 @ 2.93GHz [Family 6 Model 37 Stepping 2]	14	3.86	2.81	10.86
+Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz [Family 6 Model 85 Stepping 4]	16	13.75	2.80	38.52
+Intel(R) Xeon(R) CPU E5-2658 v2 @ 2.40GHz [Family 6 Model 62 Stepping 4]	19	40.00	2.80	112.02
+AMD A8-9600 RADEON R7, 10 COMPUTE CORES 4C+6G [Family 21 Model 101 Stepping 1]	12	4.00	2.80	11.20
+Intel(R) Core(TM) i3 CPU 540 @ 3.07GHz [Family 6 Model 37 Stepping 5]	18	4.00	2.79	11.15
+Intel(R) Core(TM) i7-4785T CPU @ 2.20GHz [Family 6 Model 60 Stepping 3]	10	8.00	2.78	22.26
+Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz [x86 Family 6 Model 23 Stepping 10]	11	2.00	2.77	5.55
+AMD Phenom(tm) II X6 1045T Processor [Family 16 Model 10 Stepping 0]	10	6.00	2.75	16.52
+Intel(R) Pentium(R) CPU G620 @ 2.60GHz [Family 6 Model 42 Stepping 7]	43	2.00	2.75	5.50
+Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz [Family 6 Model 78 Stepping 3]	147	4.00	2.74	10.97
+Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz [Family 6 Model 69 Stepping 1]	39	4.00	2.74	10.95
+AMD FX(tm)-8300 Eight-Core Processor [Family 21 Model 2 Stepping 0]	17	8.00	2.74	21.90
+Intel(R) Celeron(R) CPU G1610 @ 2.60GHz [Family 6 Model 58 Stepping 9]	23	2.00	2.72	5.44
+Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz [Family 6 Model 85 Stepping 4]	13	20.77	2.71	56.23
+AMD Phenom(tm) II X6 1055T Processor [Family 16 Model 10 Stepping 0]	16	6.00	2.71	16.23
+Intel(R) Core(TM) i3-3120M CPU @ 2.50GHz [Family 6 Model 58 Stepping 9]	10	4.00	2.70	10.82
+Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz [Family 6 Model 45 Stepping 7]	26	25.85	2.70	69.73
+Intel(R) Core(TM)2 Quad CPU Q8400 @ 2.66GHz [Family 6 Model 23 Stepping 10]	11	4.00	2.69	10.76
+Intel(R) Xeon(R) CPU E5520 @ 2.27GHz [Family 6 Model 26 Stepping 5]	15	13.87	2.69	37.27
+Intel(R) Xeon(R) CPU E5-2620 v2 @ 2.10GHz [Family 6 Model 62 Stepping 4]	18	17.11	2.68	45.94
+Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz [Family 6 Model 42 Stepping 7]	20	8.00	2.66	21.27
+AMD FX(tm)-6100 Six-Core Processor [Family 21 Model 1 Stepping 2]	20	6.00	2.66	15.94
+Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz [Family 6 Model 42 Stepping 7]	18	4.00	2.63	10.51
+AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G [Family 21 Model 112 Stepping 0]	12	2.00	2.62	5.24
+Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz [Family 6 Model 58 Stepping 9]	15	4.00	2.61	10.43
+Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz [Family 6 Model 15 Stepping 11]	24	4.00	2.57	10.30
+Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz [Family 6 Model 61 Stepping 4]	20	4.00	2.57	10.30
+Intel(R) Xeon(R) CPU E5-2665 0 @ 2.40GHz [Family 6 Model 45 Stepping 7]	10	10.00	2.57	25.70
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz [Family 6 Model 58 Stepping 9]	26	4.00	2.55	10.22
+Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz [Family 6 Model 94 Stepping 3]	86	4.00	2.54	10.17
+Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz [Family 6 Model 142 Stepping 9]	20	4.00	2.54	10.15
+Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz [Family 6 Model 142 Stepping 9]	40	4.00	2.53	10.11
+AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G [Family 21 Model 48 Stepping 1]	11	4.00	2.51	10.03
+Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz [Family 6 Model 45 Stepping 7]	21	23.05	2.50	57.51
+Intel(R) Core(TM) i5-4460T CPU @ 1.90GHz [Family 6 Model 60 Stepping 3]	51	4.00	2.47	9.87
+AMD FX(tm)-8120 Eight-Core Processor [Family 21 Model 1 Stepping 2]	12	8.00	2.46	19.70
+225	9.94	2.45	24.35
+Intel(R) Celeron(R) CPU G530 @ 2.40GHz [Family 6 Model 42 Stepping 7]	10	2.00	2.45	4.90
+AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G [Family 21 Model 48 Stepping 1]	11	4.00	2.43	9.74
+Intel(R) Core(TM) i3-2120T CPU @ 2.60GHz [Family 6 Model 42 Stepping 7]	10	4.00	2.43	9.71
+Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz [Family 6 Model 42 Stepping 7]	13	8.00	2.42	19.33
+Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz [Family 6 Model 61 Stepping 4]	66	4.00	2.39	9.55
+Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz [Family 6 Model 45 Stepping 7]	16	26.38	2.38	62.71
+BCM2835 [Impl 0x41 Arch 8 Variant 0x0 Part 0xd08 Rev 3]	363	4.00	2.37	9.50
+Intel(R) Celeron(R) CPU J3455 @ 1.50GHz [Family 6 Model 92 Stepping 9]	26	4.00	2.36	9.43
+Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz [Family 6 Model 69 Stepping 1]	19	4.00	2.34	9.37
+AMD Athlon(tm) 5350 APU with Radeon(tm) R3 [Family 22 Model 0 Stepping 1]	10	4.00	2.32	9.28
+Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz [Family 6 Model 42 Stepping 7]	22	4.00	2.32	9.27
+AMD A8-7410 APU with AMD Radeon R5 Graphics [Family 22 Model 48 Stepping 1]	12	4.00	2.29	9.16
+Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz [Family 6 Model 42 Stepping 7]	13	4.00	2.29	9.14
+AMD A6-3620 APU with Radeon(tm) HD Graphics [Family 18 Model 1 Stepping 0]	15	4.00	2.28	9.14
+AMD A8-7410 APU with AMD Radeon R5 Graphics [Family 22 Model 48 Stepping 1]	24	4.00	2.28	9.10
+Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz [Family 6 Model 78 Stepping 3]	90	3.99	2.26	9.03
+AMD A10-7860K Radeon R7, 12 Compute Cores 4C+8G [Family 21 Model 56 Stepping 1]	13	4.00	2.25	9.01
+[Impl 0x41 Arch 8 Variant 0x0 Part 0xd08 Rev 3]	13	6.77	2.23	15.09
+Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz [Family 6 Model 78 Stepping 3]	55	4.00	2.23	8.91
+Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz [Family 6 Model 42 Stepping 7]	18	4.00	2.20	8.80
+AMD A8-6410 APU with AMD Radeon R5 Graphics [Family 22 Model 48 Stepping 1]	15	4.00	2.16	8.66
+AMD A6-7310 APU with AMD Radeon R4 Graphics [Family 22 Model 48 Stepping 1]	22	4.00	2.15	8.61
+Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz [Family 6 Model 69 Stepping 1]	16	4.00	2.10	8.41
+Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz [Family 6 Model 15 Stepping 11]	10	4.00	2.10	8.38
+AMD A6-6310 APU with AMD Radeon R4 Graphics [Family 22 Model 48 Stepping 1]	26	4.00	2.08	8.33
+[Impl 0x41 Arch 8 Variant 0x0 Part 0xd03 Rev 4]	27	6.22	2.00	12.42
+Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz [Family 6 Model 58 Stepping 9]	18	4.00	1.93	7.72
+Intel(R) Pentium(R) CPU J2900 @ 2.41GHz [Family 6 Model 55 Stepping 8]	32	4.00	1.85	7.41
+Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz [Family 6 Model 69 Stepping 1]	11	4.00	1.84	7.38
+Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz [Family 6 Model 69 Stepping 1]	35	4.00	1.80	7.19
+Intel(R) Celeron(R) CPU J1800 @ 2.41GHz [Family 6 Model 55 Stepping 8]	18	2.00	1.79	3.57
+Intel(R) Pentium(R) CPU J3710 @ 1.60GHz [Family 6 Model 76 Stepping 4]	35	4.00	1.78	7.13
+AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G [Family 21 Model 48 Stepping 1]	35	4.00	1.70	6.81
+Intel(R) Celeron(R) CPU J1900 @ 1.99GHz [Family 6 Model 55 Stepping 8]	30	4.00	1.66	6.64
+AMD A8-6500 APU with Radeon(tm) HD Graphics [Family 21 Model 19 Stepping 1]	14	4.00	1.66	6.63
+Intel(R) Pentium(R) CPU N3700 @ 1.60GHz [Family 6 Model 76 Stepping 3]	16	4.00	1.65	6.59
+Intel(R) Celeron(R) CPU N3050 @ 1.60GHz [Family 6 Model 76 Stepping 3]	10	2.00	1.64	3.28
+Intel(R) Celeron(R) CPU J3060 @ 1.60GHz [Family 6 Model 76 Stepping 4]	12	2.00	1.63	3.26
+AMD A10-7800 Radeon R7, 12 Compute Cores 4C+8G [Family 21 Model 48 Stepping 1]	29	4.00	1.63	6.51
+AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G [Family 21 Model 48 Stepping 1]	10	4.00	1.51	6.06
+ARMv8 Processor rev 1 (v8l) [Impl 0x41 Arch 8 Variant 0x1 Part 0xd07 Rev 1]	12	4.00	1.40	5.59
+Total	31,757 computers			1,013.78 TeraFLOPS
